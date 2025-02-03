@@ -49,4 +49,4 @@ To run this project, you’ll need the following Python libraries:
 
 **Output**:
 - Churn Probability: 95.%36
-- The customer is **not likely** to churn.
+- The customer is **likely** to churn.
